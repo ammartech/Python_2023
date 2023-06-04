@@ -21,7 +21,7 @@ The **Water Calculator** is a simple Python application that helps individuals c
 1. Clone the repository:
 
 
-   git clone https://github.com/your-username/water-calculator.git
+```git clone https://github.com/your-username/water-calculator.git```
 Navigate to the project directory:
 
 bash
@@ -71,7 +71,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
-```
 
 Please note that you need to replace `[your-email@example.com](mailto:your-email@example.com)` with your actual email address to make it a clickable link.
 
